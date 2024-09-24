@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "scripts": {
+    "start": "npx vite public/",
+    "build": "npx vite build"
+  },
+  "dependencies": {
+    "vite": "^5.4.7"
+  }
+}
