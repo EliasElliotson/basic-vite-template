@@ -1,7 +1,7 @@
 export default {
-    root: './public',
-    build: {
-      outDir: '../build',
-      emptyOutDir: true
-    }
+  root: './public',
+  build: {
+    outDir: '../build',
+    emptyOutDir: true
   }
+}
